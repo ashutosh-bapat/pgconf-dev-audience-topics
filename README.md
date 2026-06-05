@@ -54,3 +54,9 @@ You are welcome to suggest speakers, but please remember:
 Formal talk submissions and speaker proposals continue to happen through pgconf.dev.
 
 GitHub Discussions is used here to surface community demand and identify topics worth pursuing.
+
+## Helpful documents
+
+- [Topic request template](docs/topic-request-template.md)
+- [Community process](docs/community-process.md)
+- [Moderation guidelines](docs/moderation-guidelines.md)

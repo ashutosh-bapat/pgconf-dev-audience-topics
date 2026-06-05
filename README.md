@@ -40,7 +40,7 @@ In **Announcements**, create and pin a post such as:
 
 Add a visible link from pgconf.dev (for example in the CFP/topic suggestion area) to:
 
-`https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions`
+[`./discussions`](./discussions)
 
 Suggested site copy:
 

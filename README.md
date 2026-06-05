@@ -15,7 +15,7 @@ We use GitHub Discussions to collect ideas, discussion, and community interest.
 
 ## How it works
 
-1. Create a discussion in the **Topic Requests** category.
+1. Create a discussion in the [**Topic Requests**](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests) category.
 2. Describe the topic you want to see at pgconf.dev.
 3. Upvote and comment on topics you find valuable.
 4. Organizers review the most relevant and highly supported topics.

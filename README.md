@@ -4,7 +4,7 @@ This repository hosts community discussion for topics people would like to see a
 
 ## What this is for
 
-In addition to our regular speaker proposal process, we want to hear from the community (that is you) about:
+In addition to our regular speaker proposal process, we want to hear from the community (that is, you) about:
 
 - topics you want covered
 - problems you want speakers to address
@@ -49,7 +49,9 @@ Please:
 
 ## Suggested speakers
 
-Speaker suggestions are important because they help organizers identify who might be a good fit to present a requested topic. If you get speaker's consent for the topic, that's good, but it's not required. The conference organizers may contact the speakers separately or speakers may choose to submit proposals themselves through regular CFP.
+Speaker suggestions are important because they help organizers identify who might be a good fit to present a requested topic.
+
+If you have a speaker's consent for the topic, that's great, but it is not required. Organizers may contact suggested speakers separately, and speakers may also choose to submit proposals themselves through the regular CFP.
 
 ## Formal talk proposals
 

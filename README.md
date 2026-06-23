@@ -63,5 +63,4 @@ GitHub Discussions is used here to surface community demand and identify topics 
 
 - [Topic Requests](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests)
 - [Topic request template](docs/topic-request-template.md)
-- [Community process](docs/community-process.md)
 - [Moderation guidelines](docs/moderation-guidelines.md)

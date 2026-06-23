@@ -1,16 +1,30 @@
 # pgconf.dev audience topic requests
 
-Along side regular CFP, we are soliciting topics that the pgconf.dev audience would like the conference to cover. While the regular talks allow speakers to propose the topics they would like to present in the conference, this initiative provides the audience a chance to voice their preferences. This repository hosts community discussions for topics they would like to be covered in pgconf.dev.
+This repository hosts community discussion for topics people would like to see at pgconf.dev.
+
+## What this is for
+
+In addition to our regular speaker proposal process, we want to hear from the community (that is you) about:
+
+- topics you want covered
+- problems you want speakers to address
+- areas where you want more depth
+- themes that feel timely and relevant
+- people you think would be good speakers for those topics
 
 We use GitHub Discussions to collect ideas, discussion, and community interest.
 
 ## How it works
 
-1. Create a discussion in the [**Topic Requests**](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests) category.
-2. Describe the topic you want pgconf.dev to cover.
-3. Upvote and comment on topics you find valuable.
-4. We review the most relevant and highly supported topics.
-5. We may publish these topics ahead of regular CFP for speakers and the selection committee to consider audiences' choise or we may invite suitable speakers to submit talks through the regular pgconf.dev proposal process.
+1. Create a discussion in the [Topic Requests](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests) category.
+2. Describe the topic you want to see at pgconf.dev.
+3. Explain why the topic is relevant to the event, timely, and useful to the intended audience.
+4. Suggest one or more speakers who may be a good fit for the topic.
+5. Upvote and comment on topics you find valuable.
+6. Organizers review the most relevant and highly supported topics.
+7. We may invite suitable speakers to submit talks through the regular pgconf.dev proposal process.
+
+If you are not sure how to structure a request, start with the [topic request template](docs/topic-request-template.md).
 
 ## What votes mean
 
@@ -31,14 +45,11 @@ Please:
 - search for existing discussions first
 - upvote an existing discussion if your idea is already there
 - use comments to refine an existing topic instead of creating duplicates when possible
+- include suggested speakers, even if you are not certain they would accept
 
 ## Suggested speakers
 
-You are welcome to suggest speakers, but please remember:
-
-- suggesting a speaker does not mean they have agreed to present
-- organizers may contact suggested speakers separately
-- final participation depends on speaker interest and availability
+Speaker suggestions are important because they help organizers identify who might be a good fit to present a requested topic. If you get speaker's consent for the topic, that's good, but it's not required. The conference organizers may contact the speakers separately or speakers may choose to submit proposals themselves through regular CFP.
 
 ## Formal talk proposals
 
@@ -48,6 +59,7 @@ GitHub Discussions is used here to surface community demand and identify topics 
 
 ## Helpful documents
 
+- [Topic Requests](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests)
 - [Topic request template](docs/topic-request-template.md)
 - [Community process](docs/community-process.md)
 - [Moderation guidelines](docs/moderation-guidelines.md)

@@ -6,21 +6,21 @@ Give your topic a short, clear title.
 
 What content is expected to be covered by this topic?
 
-## Why this topic matters
+## Topic relevance
+
+### Relevance to the event
 
 Why should this topic be covered at pgconf.dev?
 
-## What attendees would learn
+### Relevance today
 
-What should attendees expect to learn or take away?
+Why is this topic timely or important this year? 
 
-## Intended audience
+### Relevance to the intended audience
 
-- [ ] Beginner
-- [ ] Intermediate
-- [ ] Advanced
+Who would benefit from this topic, and why?
 
-## Suggested session format
+## Suggested session format (you may choose multiple options)
 
 - [ ] Short talk (25 minutes)
 - [ ] Full session (45 minutes)
@@ -28,19 +28,13 @@ What should attendees expect to learn or take away?
 - [ ] Workshop
 - [ ] Not sure
 
-## Suggested speaker(s) (optional)
+## Suggested speaker(s)
 
 Who would be a good fit to present this topic?
 
 ## Related links (optional)
 
 Share relevant articles, talks, repos, or docs.
-
-## Would you present this yourself?
-
-- [ ] Yes
-- [ ] No
-- [ ] Maybe
 
 ## Additional notes
 

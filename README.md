@@ -1,4 +1,4 @@
-# pgconf.dev audience topic requests
+# pgconf.dev audience topic solicitation
 
 This repository hosts community discussion for topics people would like to see at pgconf.dev.
 

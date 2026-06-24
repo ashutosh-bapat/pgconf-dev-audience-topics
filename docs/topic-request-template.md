@@ -1,6 +1,4 @@
-# Proposed topic
-
-Give your topic a short, clear title.
+# Proposed topic (Give your topic a short, clear title.)
 
 ## What should the topic cover
 
@@ -8,15 +6,15 @@ What content is expected to be covered by this topic?
 
 ## Topic relevance
 
-### Relevance to the event
+### Event relevance
 
 Why should this topic be covered at pgconf.dev?
 
-### Relevance today
+### Contemporary relevance
 
-Why is this topic timely or important this year? 
+Why is this topic important this year? 
 
-### Relevance to the intended audience
+### Audience relevance
 
 Who would benefit from this topic, and why?
 
@@ -36,6 +34,6 @@ Who would be a good fit to present this topic?
 
 Share relevant articles, talks, repos, or docs.
 
-## Additional notes
+## Additional notes (optional)
 
 Anything else organizers should know.
